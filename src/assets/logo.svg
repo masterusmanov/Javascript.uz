@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="100" viewBox="0 0 350 100">
+  <g>
+    <rect x="0" y="0" width="350" height="100" fill="#6c5ce7"/>
+    <path d="M20 20 L330 20 L340 50 L330 80 L20 80 L10 50 Z" fill="none" stroke="#a8a6ff" stroke-width="2"/>
+    <text x="20" y="65" font-family="Arial, sans-serif" font-weight="bold" font-size="35" fill="white">
+      &lt;JavaScript.uz/&gt;
+    </text>
+  </g>
+</svg>

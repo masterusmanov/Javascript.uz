@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="350" viewBox="0 0 350 350">
+  <!-- Dumaloq shakl uchun clipPath -->
+  <defs>
+    <clipPath id="circleClip">
+      <circle cx="175" cy="175" r="175"/>
+    </clipPath>
+  </defs>
+  
+  <!-- Asosiy SVG -->
+  <g clip-path="url(#circleClip)">
+    <rect x="0" y="0" width="350" height="350" fill="#6c5ce7"/>
+    <path d="M20 20 L330 20 L340 50 L330 80 L20 80 L10 50 Z" fill="none" stroke="#a8a6ff" stroke-width="2"/>
+    <text x="20" y="175" font-family="Arial, sans-serif" font-weight="bold" font-size="40" fill="white" text-anchor="start" dominant-baseline="middle">
+      &lt;JavaScript.uz/&gt;
+    </text>
+  </g>
+</svg>
