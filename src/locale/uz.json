@@ -1,5 +1,13 @@
 {
     "header": {
-        
+        "textbook": "Draslik",
+        "courses": "Kurslar",
+        "forum": "Forum",
+        "test": "Testlar",
+        "dropdown": {
+            "screenshot": "Skrinshotlar",
+            "gitcourse": "Git: kurs",
+            "gitother": "Git: boshqalar"
+        }
     }
 }

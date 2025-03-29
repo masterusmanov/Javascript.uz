@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 100">
+  <g transform="translate(0, 0)">
+    <rect x="0" y="0" width="350" height="100" rx="50" fill="#4834d4"/>
+    <text x="40" y="65" font-family="Impact, sans-serif" font-size="45" fill="white">
+      JavaScript
+    </text>
+    <text x="270" y="65" font-family="Impact, sans-serif" font-size="45" fill="#f7df1e">
+      UZ
+    </text>
+  </g>
+</svg>

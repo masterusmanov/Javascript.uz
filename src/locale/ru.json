@@ -1,5 +1,13 @@
 {
-  "hello": "Привет, мир!",
-  "welcome": "Добро пожаловать на наш сайт",
-  "language": "Язык"
+   "header": {
+        "textbook": "Учебник",
+        "courses": "Курсы",
+        "forum": "Форум",
+        "test": "Тесты знаний",
+        "dropdown": {
+            "screenshot": "Скринкасты",
+            "gitcourse": "Git: курс",
+            "gitother": "Git: разное"
+        }
+    }
 }

@@ -1,5 +1,13 @@
 {
-  "hello": "Hello, World!",
-  "welcome": "Welcome to our website",
-  "language": "Language"
+   "header": {
+        "textbook": "Textbook",
+        "courses": "Courses",
+        "forum": "Forum",
+        "test": "Tests",
+        "dropdown": {
+            "screenshot": "Screencasts",
+            "gitcourse": "Git: course",
+            "gitother": "Git: others"
+        }
+    }
 }
