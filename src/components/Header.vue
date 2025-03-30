@@ -1,10 +1,10 @@
 <template>
-    <div class="min-h-screen bg-white dark:bg-gray-800 text-gray-900 dark:text-white transition-colors duration-300">
-        <div class=" flex items-center h-[96px]">
+    <div class="container mx-auto">
+        <div class=" flex items-center h-[96px] justify-between">
             <div class="flex items-center gap-[12px]">
                 <div class=" h-[96px] p-[10px] border-2 border-[#E9E6E4] grid items-center text-center hover:text-red-700">
                     <label for="lang"><i class='bx bx-globe text-[28px] cursor-pointer'></i></label>
-                    <select id="lang" v-model="selectedLang" @change="changeLanguage(selectedLang)" class="cursor-pointer">
+                    <select id="lang" v-model="selectedLang" @change="changeLanguage(selectedLang)" class="cursor-pointer bg-white text-gray-900 dark:bg-gray-800 dark:text-white dark:border-gray-600 outline-none border-none">
                         <option value="en">EN</option>
                         <option value="ru">RU</option>
                         <option value="uz">UZ</option>
@@ -21,12 +21,12 @@
                    </div>
                 </div>
             </div>
-            <div>
-                <i class='bx bxs-user'></i>
+            <div class="flex items-center gap-[24px]">
+                <i class='bx bxs-user text-[28px]'></i>
                 <button @click="toggleTheme" class="theme-toggle-btn">
                     <i class="bx text-xl" :class="theme === 'light' ? 'bx-moon' : 'bx-sun'"></i>
                 </button>
-                <i class='bx bx-search'></i>
+                <i class='bx bx-search text-[26px]'></i>
             </div>
         </div>
 
@@ -36,7 +36,6 @@
 <script setup>
     import { useI18n } from "vue-i18n";
     import { ref, watch, onMounted } from "vue";
-    import { useColorMode } from '@vueuse/core'
     import NavbarDropdown from './NavbarDropdown.vue'
 
     const { t, locale } = useI18n();
