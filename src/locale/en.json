@@ -12,6 +12,10 @@
         "search": "Search"
     },
     "mainpage":{
-        "title": "The Modern JavaScript Tutorial"
+        "title": "The Modern JavaScript Tutorial",
+        "desc": "How it's done now. From the basics to advanced topics with simple, but detailed explanations.",
+        "tutor": "Search  in the tutorial",
+        "btn": "Search",
+        "updatedate": "Latest update:"
     }
 }

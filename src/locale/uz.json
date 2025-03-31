@@ -12,6 +12,10 @@
         "search": "Qidiruv"
     },
     "mainpage":{
-        "title": "Zamonaviy JavaScript darsligi"
+        "title": "Zamonaviy JavaScript darsligi",
+        "desc": "Mana, JavaScript-ning asoslaridan boshlab, ko'plab JavaScript/DOM nozikliklari va fokuslarini o'z ichiga olgan JavaScript qo'llanmasi",
+        "tutor": "Qo'llanmada qidiring",
+        "btn": "Qidiruv",
+        "updatedate": "Oxirgi yangilanish:"
     }
 }

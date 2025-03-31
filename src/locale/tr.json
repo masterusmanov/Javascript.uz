@@ -12,6 +12,10 @@
         "search": "Aramak"
     },
     "mainpage":{
-        "title": "Modern JavaScript Eğitimi"
+        "title": "Modern JavaScript Eğitimi",
+        "desc": "Kolay konulardan daha zora doğru, basit fakat detaylı bir anlatım",
+        "tutor": "Eğiticide ara",
+        "btn": "Ara",
+        "updatedate": "Son güncelleme:"
     }
 }
