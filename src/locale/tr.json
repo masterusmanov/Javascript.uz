@@ -1,0 +1,17 @@
+{
+    "header": {
+        "textbook": "Ders Kitabı",
+        "courses": "Kurslar",
+        "forum": "Forum",
+        "test": "Testler",
+        "dropdown": {
+            "screenshot": "Ekran görüntüleri",
+            "gitcourse": "Git: kurs",
+            "gitother": "Git: diğerleri"
+        },
+        "search": "Aramak"
+    },
+    "mainpage":{
+        "title": "Modern JavaScript Eğitimi"
+    }
+}

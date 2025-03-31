@@ -8,6 +8,10 @@
             "screenshot": "Screencasts",
             "gitcourse": "Git: course",
             "gitother": "Git: others"
-        }
+        },
+        "search": "Search"
+    },
+    "mainpage":{
+        "title": "The Modern JavaScript Tutorial"
     }
 }

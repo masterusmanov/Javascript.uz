@@ -1,6 +1,6 @@
 {
     "header": {
-        "textbook": "Draslik",
+        "textbook": "Darslik",
         "courses": "Kurslar",
         "forum": "Forum",
         "test": "Testlar",
@@ -8,6 +8,10 @@
             "screenshot": "Skrinshotlar",
             "gitcourse": "Git: kurs",
             "gitother": "Git: boshqalar"
-        }
+        },
+        "search": "Qidiruv"
+    },
+    "mainpage":{
+        "title": "Zamonaviy JavaScript darsligi"
     }
 }
