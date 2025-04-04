@@ -13,9 +13,26 @@
     },
     "mainpage":{
         "title": "Zamonaviy JavaScript darsligi",
-        "desc": "Mana, JavaScript-ning asoslaridan boshlab, ko'plab JavaScript/DOM nozikliklari va fokuslarini o'z ichiga olgan JavaScript qo'llanmasi",
+        "desc": "Bu qanday qilinadi. Asosiy tushunchalardan murakkab mavzulargacha sodda, ammo batafsil tushuntirishlar bilanBu qanday qilinadi. Asosiy tushunchalardan murakkab mavzulargacha sodda, ammo batafsil tushuntirishlar bilan",
         "tutor": "Qo'llanmada qidiring",
         "btn": "Qidiruv",
-        "updatedate": "Oxirgi yangilanish:"
+        "updatedate": "Oxirgi yangilanish:",
+        "social": "Ulashish:",
+        "titletwo": "Mundarija",
+        "desctwo": "Asosiy kurs JavaScript dasturlash tili va brauzer bilan ishlashni qamrab oluvchi 2 qismdan iborat. Shuningdek, mavzuga oid qo'shimcha maqolalar turkumi ham mavjud."
+    },
+    "internal_navbar": {
+        "navone": {
+            "one": "1-qism",
+            "two": "JavaScript tili"
+        },
+        "navtwo": {
+            "one": "2-qism",
+            "two": "Browser: Document, Events, Interfaces"
+        },
+        "navthree": {
+            "one": "3-qism",
+            "two": "Qo'shimcha maqolalar"
+        }
     }
 }

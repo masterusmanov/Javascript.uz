@@ -16,6 +16,23 @@
         "desc": "Kolay konulardan daha zora doğru, basit fakat detaylı bir anlatım",
         "tutor": "Eğiticide ara",
         "btn": "Ara",
-        "updatedate": "Son güncelleme:"
+        "updatedate": "Son güncelleme:",
+        "social": "Paylaş:",
+        "titletwo": "İçerik Tablosu",
+        "desctwo": "Ana eğitim iki bölümden oluşmaktadır. Bu bölümler JavaScript'i programlama dili olarak kapsamaktadır. Tarayıcı üzerinde çalışmaktadır. Bunun yanında konu ile ilgili makalelere de yer verilmiştir."
+    },
+    "internal_navbar": {
+        "navone": {
+            "one": "1. Bölüm",
+            "two": "JavaScript Dili"
+        },
+        "navtwo": {
+            "one": "2. Bölüm",
+            "two": "Browser: Document, Events, Interfaces"
+        },
+        "navthree": {
+            "one": "3. Bölüm",
+            "two": "Ek Makaleler"
+        }
     }
 }

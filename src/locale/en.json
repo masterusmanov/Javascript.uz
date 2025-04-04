@@ -16,6 +16,23 @@
         "desc": "How it's done now. From the basics to advanced topics with simple, but detailed explanations.",
         "tutor": "Search  in the tutorial",
         "btn": "Search",
-        "updatedate": "Latest update:"
+        "updatedate": "Latest update:",
+        "social": "Share:",
+        "titletwo": "Table of contents",
+        "desctwo": "Main course contains 2 parts which cover JavaScript as a programming language and working with a browser. There are also additional series of thematic articles."
+    },
+    "internal_navbar": {
+        "navone": {
+            "one": "PART 1",
+            "two": "The JavaScript language"
+        },
+        "navtwo": {
+            "one": "PART 2",
+            "two": "Browser: Document, Events, Interfaces"
+        },
+        "navthree": {
+            "one": "PART 3",
+            "two": "Additional articles"
+        }
     }
 }
