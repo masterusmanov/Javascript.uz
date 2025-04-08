@@ -34,5 +34,37 @@
             "one": "3. Bölüm",
             "two": "Ek Makaleler"
         }
-    }
+    },
+    "partnavbar": {
+        "title": "JavaScript Dili",
+        "desc": "Bu bölümde sıfırdan başlayarak, Nesne Yönelimli Programlama gibi daha derin konulara doğru ilerleyeceğiz. Çevre bazlı özelliklere çok az değinerek burada dilin kendisi üzerinde duracağız.",
+        "intro": "Giriş",
+        "pagelinkone": {
+            "onetoone": "JavaScript'e Giriş",
+            "onetotwo": "Kılavuz ve Şartnameler",
+            "onetothree": "Kod Düzenleyiciler",
+            "onetofour": "Geliştirici Konsolu"
+        },
+        "fundament": "JavaScript temelleri",
+        "pagelinktwo": {
+            "twotoone": "Merhaba Dünya!",
+            "twototwo": "Kod yapısı",
+            "twotothree": "Modern mode, 'use strict'",
+            "twotofour": "Değişkenler",
+            "twotofive": "Veri Tipleri",
+            "twotosix": "Tip Dönüşümleri",
+            "twotoseven": "Operatörler",
+            "twotoeight": "Karşılaştırmalar",
+            "twotonine": "Etkileşim: alarm kutusu, kullanıcıdan bilgi isteme, onaylama",
+            "twototen": "Koşul operatörleri: if, '?'",
+            "twotoeleven": "Mantıksal Operatörler",
+            "twototwelve": "Boş birleştirme operatörü '??'",
+            "twotothirteen": "Döngüler: while ve for",
+            "twotofourteen": "'switch' cümleleri",
+            "twotofifteen": "Fonksiyonlar",
+            "twotosixteen": "Fonksiyon ifadeleri",
+            "twotoseventeen": "Ok Fonksiyonlarına Giriş",
+            "twotoeighteen": "JavaScript incelikleri"
+        }
+    }  
 }

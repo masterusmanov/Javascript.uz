@@ -11,7 +11,7 @@
         </div>
         <div class="md:w-[40%] mt-[50px]">
             <p class="text-right">{{$t('mainpage.updatedate')}} {{new Date().toLocaleDateString("uz-UZ")}}</p>
-            <router-link to="#" class="w-[150px] flex mt-[30px] items-center gap-[12px] mx-auto text-[#C4433A] bg-[#F7F4F3] hover:bg-[#B2B0AF] md:text-[18px] font-[700] py-[12px] px-[30px] rounded-[8px]">{{$t('mainpage.social')}} <i class='bx bxl-telegram text-[24px]'></i></router-link>
+            <router-link to="#" class="w-[200px] flex mt-[30px] items-center gap-[12px] mx-auto text-[#C4433A] bg-[#F7F4F3] hover:bg-[#B2B0AF] md:text-[18px] font-[700] py-[12px] px-[40px] rounded-[8px]">{{$t('mainpage.social')}} <i class='bx bxl-telegram text-[24px]'></i></router-link>
         </div>
         </div>
         <div class="pt-[50px]">
@@ -21,11 +21,15 @@
     </div>
     <div class="px-[10px] md:px-0 md:w-[80%] mx-auto">
         <InternalNavbar/>
+        <Partone/>
+        <Parttwo/>
     </div>
 </template>
 
 <script setup>
 import InternalNavbar from '../../components/InternalNavbar.vue';
+import Partone from '../../components/Partone/Partone.vue';
+import Parttwo from '../../components/Parttwo/Parttwo.vue';
 </script>
 
 <style lang="scss" scoped>

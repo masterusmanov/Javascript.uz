@@ -34,5 +34,37 @@
             "one": "PART 3",
             "two": "Additional articles"
         }
-    }
+    },
+    "partnavbar": {
+        "title": "The JavaScript language",
+        "desc": "Here we learn JavaScript, starting from scratch and go on to advanced concepts like OOP. We concentrate on the language itself here, with the minimum of environment-specific notes.",
+        "intro": "An introduction",
+        "pagelinkone": {
+            "onetoone": "An Introduction to JavaScript",
+            "onetotwo": "Manuals and specifications",
+            "onetothree": "Code editors",
+            "onetofour": "Developer console"
+        },
+        "fundament": "JavaScript Fundamentals",
+        "pagelinktwo": {
+            "twotoone": "Hello, world!",
+            "twototwo": "Code structure",
+            "twotothree": "The modern mode, 'use strict'",
+            "twotofour": "Variables",
+            "twotofive": "Data types",
+            "twotosix": "Interaction: alert, prompt, confirm",
+            "twotoseven": "Type Conversions",
+            "twotoeight": "Basic operators, maths",
+            "twotonine": "Comparisons",
+            "twototen": "Conditional branching: if, '?'",
+            "twotoeleven": "Logical operators",
+            "twototwelve": "Nullish coalescing operator '??'",
+            "twotothirteen": "Loops: while and for",
+            "twotofourteen": "The 'switch' statement",
+            "twotofifteen": "Functions",
+            "twotosixteen": "Function Expression",
+            "twotoseventeen": "Arrow functions, the basics",
+            "twotoeighteen": "JavaScript specials"
+        }
+    }  
 }

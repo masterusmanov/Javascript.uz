@@ -34,5 +34,37 @@
             "one": "3-qism",
             "two": "Qo'shimcha maqolalar"
         }
-    }
+    },
+    "partnavbar": {
+        "title": "JavaScript tili",
+        "desc": "Bu yerda biz JavaScriptni noldan boshlab o'rganamiz va OOP kabi murakkab tushunchalarga o'tamiz. Biz bu yerda asosan tilning o'ziga e'tibor qaratamiz, muhitga oid eslatmalarni minimal darajada keltiramiz.",
+        "intro": "Kirish",
+        "pagelinkone": {
+            "onetoone": "JavaScriptga kirish",
+            "onetotwo": "Qo'llanmalar va spetsifikatsiyalar",
+            "onetothree": "Kod muharrirlari",
+            "onetofour": "Dasturchi konsolli"
+        },
+        "fundament": "JavaScript asoslari",
+        "pagelinktwo": {
+            "twotoone": "Salom, dunyo!",
+            "twototwo": "Kod tuzilishi",
+            "twotothree": "Zamonaviy rejim, 'use strict'",
+            "twotofour": "O'zgaruvchilar",
+            "twotofive": "Ma'lumot turlari",
+            "twotosix": "O'zaro ta'sir: alert, prompt, confirm",
+            "twotoseven": "Turlarni o'zgartirish",
+            "twotoeight": "Asosiy operatorlar, matematika",
+            "twotonine": "Taqqoslashlar",
+            "twototen": "Shartli tarmoqlanish: if, '?'",
+            "twotoeleven": "Mantiqiy operatorlar",
+            "twototwelve": "Nolga tekshiruvchi operator '??'",
+            "twotothirteen": "Sikllar: while va for",
+            "twotofourteen": "switch' operatori",
+            "twotofifteen": "Funksiyalar",
+            "twotosixteen": "Funksiya ifodasi",
+            "twotoseventeen": "Arrow funksiyalar, asoslar",
+            "twotoeighteen": "JavaScript xususiyatlari"
+        }
+    }  
 }

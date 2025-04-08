@@ -34,5 +34,37 @@
             "one": "Часть 3",
             "two": "Тематические разделы"
         }
-    }
+    },
+    "partnavbar": {
+        "title": "Язык JavaScript",
+        "desc": "Здесь вы можете изучить JavaScript, начиная с нуля и заканчивая продвинутыми концепциями вроде ООП. Мы сосредоточимся на самом языке, изредка добавляя заметки о средах его исполнения.",
+        "intro": "Введение",
+        "pagelinkone": {
+            "onetoone": "Введение в JavaScript",
+            "onetotwo": "Справочники и спецификации",
+            "onetothree": "Редакторы кода",
+            "onetofour": "Консоль разработчика"
+        },
+        "fundament": "Основы JavaScript",
+        "pagelinktwo": {
+            "twotoone": "Привет, мир!",
+            "twototwo": "Структура кода",
+            "twotothree": "Строгий режим — 'use strict'",
+            "twotofour": "Переменные",
+            "twotofive": "Типы данных",
+            "twotosix": "Взаимодействие: alert, prompt, confirm",
+            "twotoseven": "Преобразование типов",
+            "twotoeight": "Базовые операторы, математика",
+            "twotonine": "Операторы сравнения",
+            "twototen": "Условное ветвление: if, '?'",
+            "twotoeleven": "Логические операторы",
+            "twototwelve": "Операторы нулевого слияния и присваивания: '??', '??='",
+            "twotothirteen": "Циклы while и for",
+            "twotofourteen": "Конструкция 'switch'",
+            "twotofifteen": "Функции",
+            "twotosixteen": "Function Expression",
+            "twotoseventeen": "Стрелочные функции, основы",
+            "twotoeighteen": "Особенности JavaScript"
+        }
+    }  
 }
